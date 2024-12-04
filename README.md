@@ -10,12 +10,11 @@
 
 This project was built using these technologies.
 - HTML
-- CSS
+- CSS3
 - Javascript
 - React.js
 - Node.js
 - Express.js
-- CSS3
 - VsCode
 - Vercel
 
