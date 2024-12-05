@@ -13,6 +13,7 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
+  DiWordpress,
 } from "react-icons/di";
 // import {
 //   SiRedis,
@@ -73,6 +74,9 @@ function Techstack() {
       </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiWordpress />
       </Col>
 
     </Row>
